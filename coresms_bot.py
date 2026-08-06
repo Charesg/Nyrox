@@ -20,9 +20,9 @@ from telegram.ext import Application, CallbackQueryHandler, ContextTypes
 #  CONFIG  ← fill in before running
 # ============================================================
 
-BOT_TOKEN     = "8706326366:AAHSb105NwdG6Ugy7df3QPLf34UW3YLe3aQ"       # Telegram bot token
+BOT_TOKEN     = "8959068683:AAHUY1uouPi8O79x6ICA-CHs3Ev9rhopHvA"       # Telegram bot token
 GROUP_CHAT_ID =-1004205950683        # Group/channel to forward into (negative number)
-BOT_USERNAME  = "@NyroxOTP_bot"       # Bot username without @
+BOT_USERNAME  = "@Noxvoidbot"       # Bot username without @
 GROUP_LINK    = "https://t.me/+dS7Lf639NhcwMzhk"       # Group invite link
 CHAT_LINK     = ""       # Support link
 
