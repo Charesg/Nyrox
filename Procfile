@@ -1,1 +1,1 @@
-worker: core sms.py
+worker: coresms_bot.py
