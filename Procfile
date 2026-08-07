@@ -1,1 +1,1 @@
-web: python3 coresms_bot.py
+worker: python bot.py
