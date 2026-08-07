@@ -18,18 +18,18 @@ from telegram.ext import (
 #  CONFIG
 # ============================================================
 
-BOT_TOKEN        = "8959068683:AAHUY1uouPi8O79x6ICA-CHs3Ev9rhopHvA"
+BOT_TOKEN        = "8472928279:AAF1rVCWoAwswVvkwhvlvJ_yFAEIqHEFWts"
 ADMIN_ID         = 6572004742
 ADMIN_ID2        = 5931349587
 ADMIN_IDS        = (ADMIN_ID, ADMIN_ID2)
 GROUP_CHAT_ID    = -1004205950683
 GROUP_LINK       = "https://t.me/+dS7Lf639NhcwMzhk"
 SUPPORT_LINK     = "https://t.me/YourSupport"   # ← update
-BOT_USERNAME     = "YourBotUsername"             # ← update (without @)
-REQUIRED_CHANNEL = "@yourchannel"               # ← update
-REQUIRED_GROUP   = "@yourgroup"                 # ← update
-CHANNEL_LINK     = "https://t.me/yourchannel"   # ← update
-GROUP_JOIN_LINK  = "https://t.me/yourgroup"     # ← update
+BOT_USERNAME     = "@Chromenumber_bot"             # ← update (without @)
+REQUIRED_CHANNEL = "@t.me/+_E4TNtWhjGw0ZmY8"               # ← update
+REQUIRED_GROUP   = "@t.me/+dS7Lf639NhcwMzhk"                 # ← update
+CHANNEL_LINK     = "https://t.me/+_E4TNtWhjGw0ZmY8"   # ← update
+GROUP_JOIN_LINK  = "https://t.me/+dS7Lf639NhcwMzhk"     # ← update
 
 # ── Panel A (reseller — fromdate/todate)
 PANEL_A_URL   = "http://137.74.1.203/crapi/reseller/mdr.php"
@@ -37,7 +37,7 @@ PANEL_A_TOKEN = ""   # ← paste token
 
 # ── Panel B (MBCS — records param, filter by today)
 PANEL_B_URL   = "https://mbcs-ms.com/crapi/mbc/viewstats"
-PANEL_B_TOKEN = "fzLDmdiz7w2WJUMJWFGMyE6Ks35sG0b2etKq4CdQHqs"
+PANEL_B_TOKEN = "fzLDmdiz7w2WJUMJWGMyE6Ks35sG0b2etKq4CdQHqs"
 
 # ── Panel C (Core SMS — session login + HTML scrape)
 CORE_SMS_URL      = "http://139.99.68.231/ints"
